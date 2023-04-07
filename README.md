@@ -1,7 +1,7 @@
 # Simon-Game app -
 
-The game is basically a memory game.
-Simon lights one of the coloured buttons and sounds a tone, then two, then three, etc.
-Players attempt to match Simon by pressing the buttons in the proper sequence.
+- A memory game.
+- The computer lights one of the coloured buttons randomly and sounds a tone, then two, then three, etc.
+- User attempt to match computr by pressing the buttons in the proper sequence.
 
-built with html ,css, javascript- jquery.
+-html ,css, javascript- jquery.
